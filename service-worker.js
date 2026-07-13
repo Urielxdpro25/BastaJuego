@@ -8,7 +8,7 @@ const CACHE = "gestionador-v7";
 // Archivos que se guardarán para usar sin Internet
 const ARCHIVOS = [
     "./",
-    "./Index.html",
+    "./index.html",
     "./manifest.json",
     "./LogoUriel.png",
     "./Contacto.html",
