@@ -2,7 +2,7 @@
   "name": "Stop Virtual",
   "short_name": "Basta Virtual",
   "description": "Juego virtual del Basta o Stop.",
-  "start_url": "./Index.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
